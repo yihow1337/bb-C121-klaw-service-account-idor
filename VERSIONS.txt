@@ -1,0 +1,7 @@
+repo=https://github.com/Aiven-Open/klaw
+commit=f1c24b9d3c8a079dba0a54e7713a09fdd43a974b
+describe=v2.10.6-1-gf1c24b9
+vulnerable_method_sha256=d3c3bc30160cd026cb3572921f4e234ff3aec04d06dc69fe84b05dd20c612b5c
+endpoint_sha256=c230421e905e66e227f78e126f74dec2e51ae05b2df4f91092c41f5369619f40
+java=openjdk version "21.0.13" 2026-10-20 LTS
+tested_at=2026-11-02T06:45:51+08:00
